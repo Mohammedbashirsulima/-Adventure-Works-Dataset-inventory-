@@ -1,2 +1,9 @@
-# -Adventure-Works-Dataset-inventory-
-In this repository, I will help you reorganize data in a worksheet as a data analyst, enabling you to group rows in a specific order. You will learn to use both standard and multi-level sorts. By completing this exercise, you’ll be able to sort numbers and text on large worksheets efficiently and effectively.
+# -Adventure-Works-Dataset-inventory
+
+---
+
+**Case Study**
+
+Alex at Adventure Works aims to enhance the company's product inventory file, making it more readable and easier to locate information. As part of the team preparing the inventory for a management review, you are tasked with familiarizing yourself with the inventory file's content. To organize the data effectively, you decide to use the Sort feature, tailoring the arrangement to meet your specific requirements.
+
+---
