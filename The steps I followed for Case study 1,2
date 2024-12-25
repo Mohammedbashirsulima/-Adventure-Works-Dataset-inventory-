@@ -1,3 +1,4 @@
+***Case study 1***
 Step 1: Download and Customize the File
 
 Download and open the Microsoft Excel workbook Adventure Works Inventory.xlsx. The file should contain one worksheet named Products with 151 rows and 9 columns.
@@ -13,3 +14,6 @@ Sort by Supplier (Ascending): Use the shortcut Sort Ascending button to sort the
 Multi-Level Sort: Apply a sort that organizes the data by Supplier in ascending order and then by Units in Stock in descending order.
 Tip: Use the Sort option in the Data ribbon.
 Reverse the Sort: Use the Undo feature to reverse the last sort.
+
+
+*** Case study 2 ***
