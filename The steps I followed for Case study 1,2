@@ -1,11 +1,10 @@
 *** Case study 1 ***
 
 Step 1: Download and Customize the File
-
 Download and open the Microsoft Excel workbook Adventure Works Inventory.xlsx. The file should contain one worksheet named Products with 151 rows and 9 columns.
 To use the Sort feature effectively, add a visual marker to the data. Select cells A32 to I32 and apply a yellow background. On the Home tab, go to the Font group and select the background color.
-Step 2: Performing Alpha-Numeric Sorts
 
+Step 2: Performing Alpha-Numeric Sorts
 Sort by Product Name (Ascending): View the data organized by Product Name in ascending order.
 Tip: Ensure the cursor is in the correct column before selecting the Sort option. Use Undo to reverse a sort if needed. Monitor the position of the colored row to verify the sort.
 Sort by Product Name (Descending): Sort the data by Product Name in descending order.
